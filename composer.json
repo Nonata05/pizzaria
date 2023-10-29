@@ -1,0 +1,16 @@
+{
+    "name": "nonata/pizzaria",
+    "description": "Projeto para controle de entrega de pizzas",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pizzaria\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nonata"
+        }
+    ],
+    "require": {}
+}
